@@ -54,13 +54,14 @@ text-similarity-app/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](assets/Homepage.png)
+<img src="assets/Homepage.png" width="800"/>
 
 ### 📊 Analyze Page
-![Analyze](assets/Analysepage.png)
+<img src="assets/Analysepage.png" width="800"/>
 
 ### 🔗 Compare Page
-![Compare](assets/Comparepage.png)
+<img src="assets/Comparepage.png" width="800"/>
+
 ---
 
 ## ⚙️ Installation & Setup

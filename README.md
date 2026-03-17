@@ -54,7 +54,7 @@ text-similarity-app/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/Homepage.png" width="800"/>
+<img src="https://github.com/AjanyaVinayan/TextAnalysis-Similarity-Detection/blob/main/text_similarity_app/assets/Homepage.png" width="800"/>
 
 ### 📊 Analyze Page
 <img src="" width="800"/>

@@ -51,6 +51,16 @@ text-similarity-app/
       └── config.toml   # UI theme configuration (optional)
 ```
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](assets/Home Page.png)
+
+### 📊 Analyze Page
+![Analyze](assets/Analyse page.png)
+
+### 🔗 Compare Page
+![Compare](assets/Compare page.png)
 ---
 
 ## ⚙️ Installation & Setup

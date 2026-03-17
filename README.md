@@ -60,7 +60,7 @@ text-similarity-app/
 <img src="https://github.com/AjanyaVinayan/TextAnalysis-Similarity-Detection/blob/main/text_similarity_app/assets/Analysepage.png" width="800"/>
 
 ### 🔗 Compare Page
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/Comparepage.png" width="800"/>
+<img src="https://github.com/AjanyaVinayan/TextAnalysis-Similarity-Detection/blob/main/text_similarity_app/assets/Comparepage.png" width="800"/>
 
 ---
 

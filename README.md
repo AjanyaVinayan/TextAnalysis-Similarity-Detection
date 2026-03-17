@@ -54,13 +54,13 @@ text-similarity-app/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img src="assets/Homepage.png" width="800"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/Homepage.png" width="800"/>
 
 ### 📊 Analyze Page
-<img src="assets/Analysepage.png" width="800"/>
+<img src="" width="800"/>
 
 ### 🔗 Compare Page
-<img src="assets/Comparepage.png" width="800"/>
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/Comparepage.png" width="800"/>
 
 ---
 

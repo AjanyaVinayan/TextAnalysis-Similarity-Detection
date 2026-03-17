@@ -1,4 +1,7 @@
 # 🚀 Text Analysis and Similarity Detection System
+## 🚀 Live Demo
+
+👉 [Click Here to Use the App](https://your-app-name.streamlit.app)
 
 A modern **Streamlit-based web application** for analyzing textual data and detecting similarity between documents using **Natural Language Processing (NLP)** techniques.
 
